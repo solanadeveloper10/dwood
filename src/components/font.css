@@ -1,0 +1,43 @@
+@font-face {
+    font-family: 'Bookman';
+    src: url('../../public/Dolores-Regular.ttf') format('ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Bookman';
+    src: url('../../public/Dolores-Bold.ttf') format('ttf');
+    font-weight: bold;
+    font-style: normal;
+}
+
+html,
+body {
+    cursor: none !important;
+}
+
+#custom-cursor {
+    position: fixed;
+    pointer-events: none;
+    z-index: 9999;
+    width: 32px;
+    height: 32px;
+    transition: width, height 2s;
+}
+
+@media (max-width: 900px) {
+    #custom-cursor {
+        display: none;
+    }
+}
+
+#hover1:hover,
+#hover2:hover,
+#hover3:hover,
+#hover4:hover,
+#hover5:hover,
+#hover6:hover,
+#hover7:hover {
+    cursor: none;
+}
