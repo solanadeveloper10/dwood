@@ -103,7 +103,7 @@ const KekecText: React.FC = () => {
           }}
           mb={2}
         >
-          MAKE YOUR OWN KEKEC-TEXT
+          MAKE YOUR OWN DWOOD-TEXT
         </Typography>
         <TextField
           value={value}

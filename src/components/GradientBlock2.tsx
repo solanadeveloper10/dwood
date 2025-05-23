@@ -69,10 +69,10 @@ const GradientBlock2: React.FC = () => {
           }}
         >
           <Typography mb={3}>
-            The KEKEC smart contract has 0 tax on all buys and sells
+            The DWOOD smart contract has 0 tax on all buys and sells
           </Typography>
           <Typography mb={3}>
-            The total supply of KEKEC is 40 billion
+            The total supply of DWOOD is 40 billion
           </Typography>
           <Typography mb={5}>LIQUIDITY IS BURNT</Typography>
           <Typography

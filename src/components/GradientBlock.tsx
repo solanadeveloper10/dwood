@@ -38,21 +38,21 @@ const GradientBlock: React.FC = () => {
           ABOUT THE BALKAN DWARF TOKEN
         </Typography>
         <Typography mb={5}>
-          Once upon a time in the city of Kekec, there lived a peculiar little
+          Once upon a time in the city of Dwood, there lived a peculiar little
           fellow known as the Balkwan dwarf. This pint-sized wonder, born to
           dwarf parents with a penchant for rakija, was a gentle soul but lacked
           any extraordinary talents. The poor Balkwan dwarf was as shy as they
           come and not quite the darling of the town.
         </Typography>
         <Typography mb={5}>
-          Once upon a time in the city of Kekec, there lived a peculiar little
+          Once upon a time in the city of Dwood, there lived a peculiar little
           fellow known as the Balkwan dwarf. This pint-sized wonder, born to
           dwarf parents with a penchant for rakija, was a gentle soul but lacked
           any extraordinary talents. The poor Balkwan dwarf was as shy as they
           come and not quite the darling of the town.
         </Typography>
         <Typography mb={5}>
-          Once upon a time in the city of Kekec, there lived a peculiar little
+          Once upon a time in the city of Dwood, there lived a peculiar little
           fellow known as the Balkwan dwarf. This pint-sized wonder, born to
           dwarf parents with a penchant for rakija, was a gentle soul but lacked
           any extraordinary talents. The poor Balkwan dwarf was as shy as they

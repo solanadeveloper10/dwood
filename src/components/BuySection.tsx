@@ -18,9 +18,9 @@ const BuySection: React.FC = () => {
           Close
         </button>
         <iframe
+          src='https://jup.ag/swap/SOL-3d7AzmWfTWJMwAxpoxgZ4uSMmGVaaC6z2f73dP3Mpump'
           height={800}
           width='100%'
-          src='https://app.uniswap.org/#/swap?exactField=input&exactAmount=10&inputCurrency=ETH&outputCurrency=0x8C7AC134ED985367EADC6F727d79E8295E11435c'
         />
       </Dialog>
       <Box

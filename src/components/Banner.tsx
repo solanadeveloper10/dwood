@@ -224,7 +224,7 @@ const Banner: React.FC = () => (
           display: "inline-block",
         }}
       >
-        0x8C7AC134ED985367EADC6F727d79E8295E11435c
+        5btYsuenKLNP8rTYiMeuc8AJoqiupXxT4PncGQptpump
       </Typography>
       <Box
         position='absolute'
