@@ -8,7 +8,7 @@ const StartScreen: React.FC<{ onOpen: () => void }> = ({ onOpen }) => (
           className='text-5xl text-white font-bold'
           data-svelte-h='svelte-5at49r'
         >
-          Welcome to the woods city!
+          WELCOME TO THE WOODS CITY!
         </h1>
         <button
           onClick={onOpen}

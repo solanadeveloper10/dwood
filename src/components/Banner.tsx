@@ -168,7 +168,7 @@ const Banner: React.FC = () => (
             fontSize: { xs: "0.75rem", md: "1.25rem" },
           }}
         >
-          Faire Launch
+          FAIR LAUNCH
         </Typography>
         <Typography
           sx={{
@@ -204,7 +204,7 @@ const Banner: React.FC = () => (
           animation: `${rotate} 6s linear infinite`,
         }}
       >
-        May the RAKIJA be with you
+        †HÊ DÛDÊ FRÔM †HÊ WÔÔDS
       </Typography>
       <Typography
         position='relative'

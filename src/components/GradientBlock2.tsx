@@ -74,7 +74,7 @@ const GradientBlock2: React.FC = () => {
           <Typography mb={3}>
             The total supply of DWOOD is 1 billion
           </Typography>
-          <Typography mb={5}>LIQUIDITY IS LOCKED</Typography>
+          <Typography mb={5}>FAIR LAUNCH</Typography>
           <Typography
             width='100%'
             position='absolute'
