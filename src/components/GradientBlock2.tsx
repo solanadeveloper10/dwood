@@ -72,9 +72,9 @@ const GradientBlock2: React.FC = () => {
             The DWOOD smart contract has 0 tax on all buys and sells
           </Typography>
           <Typography mb={3}>
-            The total supply of DWOOD is 40 billion
+            The total supply of DWOOD is 1 billion
           </Typography>
-          <Typography mb={5}>LIQUIDITY IS BURNT</Typography>
+          <Typography mb={5}>LIQUIDITY IS LOCKED</Typography>
           <Typography
             width='100%'
             position='absolute'
@@ -86,7 +86,7 @@ const GradientBlock2: React.FC = () => {
               animation: `${ping} 1s cubic-bezier(0,0,.2,1) infinite`,
             }}
           >
-            MÄ¥ †HÈ RÄKÌJÄ ßÈ WÌ†H ¥ÖÚ
+            †HÊ DÛDÊ FRÔM †HÊ WÔÔDS
           </Typography>
         </Box>
         <Box

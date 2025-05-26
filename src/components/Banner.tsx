@@ -168,7 +168,7 @@ const Banner: React.FC = () => (
             fontSize: { xs: "0.75rem", md: "1.25rem" },
           }}
         >
-          LIQUIDITY BURNT
+          Faire Launch
         </Typography>
         <Typography
           sx={{
