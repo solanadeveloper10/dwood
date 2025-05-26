@@ -16,7 +16,7 @@ const GifBlock: React.FC = () => (
       "dance-3.gif",
       "dance-4.gif",
       "dance-5.gif",
-      "dance-6.gif",
+      "dance-10.gif",
       "dance-3.gif",
       "dance-4.gif",
       "dance-2.gif",
