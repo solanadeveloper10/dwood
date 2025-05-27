@@ -98,7 +98,7 @@ const Banner: React.FC = () => (
         <Box
           id='hover4'
           component='a'
-          href='https://www.dextools.io/app/en/solana/pair-explorer/3V2cC4xAcWvH5t74iKsNJqhpZEudPHCYxxKkpKoCpump?t=1748314558467'
+          href='https://www.dextools.io/app/en/solana/pair-explorer/9Pqa3xWQqq11nfb8cWbh6XJ3mnyEi1sAf2ZZk3pe5ufH?t=1748315195501'
           display='flex'
           flexDirection='column'
           justifyContent='center'
