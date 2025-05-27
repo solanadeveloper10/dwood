@@ -18,7 +18,7 @@ const BuySection: React.FC = () => {
           Close
         </button>
         <iframe
-          src='https://jup.ag/swap/SOL-3d7AzmWfTWJMwAxpoxgZ4uSMmGVaaC6z2f73dP3Mpump'
+          src='https://jup.ag/swap/SOL-3V2cC4xAcWvH5t74iKsNJqhpZEudPHCYxxKkpKoCpump'
           height={800}
           width='100%'
         />

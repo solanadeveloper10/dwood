@@ -54,7 +54,7 @@ const Banner: React.FC = () => (
         <Box
           id='hover2'
           component='a'
-          href='yput'
+          href='https://t.me/DWOODwtf'
           display='flex'
           flexDirection='column'
           justifyContent='center'
@@ -78,7 +78,7 @@ const Banner: React.FC = () => (
         <Box
           id='hover3'
           component='a'
-          href='yput'
+          href='https://x.com/DWOODwtf'
           display='flex'
           flexDirection='column'
           justifyContent='center'
@@ -98,7 +98,7 @@ const Banner: React.FC = () => (
         <Box
           id='hover4'
           component='a'
-          href='yput'
+          href='https://www.dextools.io/app/en/solana/pair-explorer/3V2cC4xAcWvH5t74iKsNJqhpZEudPHCYxxKkpKoCpump?t=1748314558467'
           display='flex'
           flexDirection='column'
           justifyContent='center'
@@ -122,7 +122,7 @@ const Banner: React.FC = () => (
         <Box
           id='hover5'
           component='a'
-          href='yput'
+          href='https://dexscreener.com/solana/3V2cC4xAcWvH5t74iKsNJqhpZEudPHCYxxKkpKoCpump'
           display='flex'
           flexDirection='column'
           justifyContent='center'
@@ -224,7 +224,7 @@ const Banner: React.FC = () => (
           display: "inline-block",
         }}
       >
-        5btYsuenKLNP8rTYiMeuc8AJoqiupXxT4PncGQptpump
+        3V2cC4xAcWvH5t74iKsNJqhpZEudPHCYxxKkpKoCpump
       </Typography>
       <Box
         position='absolute'
